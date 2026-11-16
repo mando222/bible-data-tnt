@@ -1,0 +1,13 @@
+{
+  "edition": "TNT",
+  "migration": "302bb5f92f1e05bf4b96c894f96da77a4cf10845",
+  "sources": [
+    {
+      "asset": "helloao_eng_tnt.json",
+      "sha256": "12cd3f77d012891a8b3da095cba08c54641c4c6585855014361e6f41c17262c6",
+      "url": "https://bible.helloao.org/api/eng_tnt/complete.json",
+      "license": "Public Domain",
+      "credit": "Tyndale New Testament (1534), William Tyndale. Public Domain (eBible.org)."
+    }
+  ]
+}
