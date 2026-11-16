@@ -98,7 +98,7 @@
   },
   "inference": "BSB phrase alignment with KJV and BSB verse candidates, Strong’s KJV usage and English stems. Passage addresses mapped to KJV coordinates before lookup. Inferred links support dictionary lookup only. Regenerator: data-pipeline/editionInference.ts.",
   "files": {
-    "coverage.json": "8c94bc0b83e9ed16d5498a34104a900ea8fce481c13524433cfa66c6636ebbc0",
+    "coverage.json": "a53ff55f9895c48c14be324f99904833d0cbed4a89e0fce3d7f3b95c9538fc89",
     "inferred/1Cor.jsonl": "d51bf543fc57f997eb0ed2fed80b2f579a5240cd93c781244e4e5a168a697a94",
     "inferred/1John.jsonl": "b3402d57a6c5b9ee4a3a2774427eba1c4da87423ca9640565bceec666bf773e5",
     "inferred/1Pet.jsonl": "9f7aa0be0d6ce05eb6c959e10da2218714bac40055314ebdcbb1abf0efbeb6ed",
@@ -126,7 +126,7 @@
     "inferred/Rev.jsonl": "37b8c6a0b8d54aecdba675706d58afdffd446fcc72d3eb98cd3aa506af83ace6",
     "inferred/Rom.jsonl": "8de2d14b64f767c771f7d5fdb948cf79847fa1f50a4d7040d29e5cbe67e1d2ea",
     "inferred/Titus.jsonl": "54ce384be8d0a391e3884d68ea7d1648624f03422da88eab6aa41d43f37384c7",
-    "inventory.json": "c5484db1227ee9bfd2660c6793a97984c11187cb96f23dd29dc1d91042cbc027",
+    "inventory.json": "493e75bdd1600606ce75b4d73cb22187b185a7fd288a71d013927bcd664d357c",
     "layout/1Cor.jsonl": "8a22b41149533dedcb60f506ae60f6ae7c82943b134e5168f71eacdbe7138b78",
     "layout/1John.jsonl": "b8ca824c318967f68bf0d71ec304270f218b93faf4a082989b2def50f5d75940",
     "layout/1Pet.jsonl": "b8ca824c318967f68bf0d71ec304270f218b93faf4a082989b2def50f5d75940",
@@ -181,6 +181,15 @@
     "text/Phlm.jsonl": "bb58feba57cdab2351708292892d25abc089beb23b283fac72f06efdaedbe22e",
     "text/Rev.jsonl": "7111ed0bba6257dc3ad9f57c9fe50d0144cbd6c6292fdb3d70908e4d81434e2a",
     "text/Rom.jsonl": "f42c16a66cb8acb9e0cc1ed182c2c654733bbe01d7f26864b4fb9a950ac65f83",
-    "text/Titus.jsonl": "62c3d1554274db59708f2bf454d634cdbbbf1204717656e9705616554b199cb6"
+    "text/Titus.jsonl": "62c3d1554274db59708f2bf454d634cdbbbf1204717656e9705616554b199cb6",
+    "upstream/engtnt_usfm.zip": "a86faa9c69f021686e95bc26a7b598d6d7b33da391f523cac49cf8d3cd93822c"
+  },
+  "inferenceInputs": {
+    "KJVTokens": "5230545659a8ea07a5ec67ceb4cd79cf87b30aa465327358f72ff4d6b28000aa",
+    "BSBTokens": "6bc7b4c0d335004616d9f845e42408d7592926ecde62c38c486f0ab8709f4c19",
+    "strongsUsage": "bc1103ef2b8cb922cbadd18e0cfeb5acc4627714e0843e8898dd3fb321ea335d",
+    "algorithm": "790607db277380c3c600aac16039481a29d15db881f903eade75aa87a9480af9",
+    "referenceMapping": "3fc5b56a3e2759e815374e409acb0d90117b0e36381b9817a1d38628dfad9901",
+    "derivation": "08040b2e26eaa5ee197690738a606f3aac9a316b76cf44dfaeea71bc5ee76fae"
   }
 }

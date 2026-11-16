@@ -1,13 +1,202 @@
 {
   "edition": "TNT",
-  "migration": "302bb5f92f1e05bf4b96c894f96da77a4cf10845",
-  "sources": [
+  "format": 1,
+  "candidates": [
     {
-      "asset": "helloao_eng_tnt.json",
-      "sha256": "12cd3f77d012891a8b3da095cba08c54641c4c6585855014361e6f41c17262c6",
+      "name": "Free Use Bible API edition snapshot",
       "url": "https://bible.helloao.org/api/eng_tnt/complete.json",
-      "license": "Public Domain",
-      "credit": "Tyndale New Testament (1534), William Tyndale. Public Domain (eBible.org)."
+      "sha256": "12cd3f77d012891a8b3da095cba08c54641c4c6585855014361e6f41c17262c6",
+      "rights": "Public-domain edition text. Preserve publisher credits and applicable territorial notices.",
+      "establishes": "The pinned v0.5.0 published text and its edition-specific layout."
+    },
+    {
+      "name": "eBible.org USFM",
+      "url": "https://ebible.org/Scriptures/engtnt_usfm.zip",
+      "catalog": "https://ebible.org/details.php?id=engtnt",
+      "sha256": "a86faa9c69f021686e95bc26a7b598d6d7b33da391f523cac49cf8d3cd93822c",
+      "books": [
+        "1CO",
+        "1JN",
+        "1PE",
+        "1TH",
+        "1TI",
+        "2CO",
+        "2JN",
+        "2PE",
+        "2TH",
+        "2TI",
+        "3JN",
+        "ACT",
+        "COL",
+        "EPH",
+        "GAL",
+        "HEB",
+        "JAS",
+        "JHN",
+        "JUD",
+        "LUK",
+        "MAT",
+        "MRK",
+        "PHM",
+        "PHP",
+        "REV",
+        "ROM",
+        "TIT"
+      ],
+      "rights": "Tyndale New Testament ^ < > Tyndale New Testament Tyndale New Testament The Tyndale New Testament (1534) Public Domain Language: English Dialect: archaic British Translation by: William Tyndale 2020-12-20 HTML generated with Haiola by eBible.org 30 Oct 2026 from source files dated 12 Dec 2025 ^ < > Public Domain",
+      "establishes": "Edition-specific markup and any word-level tags as supplied by the distributor. An archive hash identifies the precise snapshot. See upstream/ for the unchanged source and embedded rights notice."
+    },
+    {
+      "name": "CrossWire SWORD catalog, Tyndale",
+      "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Tyndale",
+      "revision": "2.1",
+      "rights": "Public domain.",
+      "establishes": "1525/1530 NT and Pentateuch differ from the bundled 1534 NT. No occurrence data can safely transfer from that identification."
     }
-  ]
+  ],
+  "gaps": "The Tyndale 1534 USFM covers only the New Testament. This archive has no Strong’s word tags or source positions.",
+  "books": {
+    "Matt": {
+      "targetVerses": 1071,
+      "distributorVerseUnits": 1071,
+      "distributorWordTags": 0
+    },
+    "Mark": {
+      "targetVerses": 677,
+      "distributorVerseUnits": 678,
+      "distributorWordTags": 0
+    },
+    "Luke": {
+      "targetVerses": 1150,
+      "distributorVerseUnits": 1151,
+      "distributorWordTags": 0
+    },
+    "John": {
+      "targetVerses": 879,
+      "distributorVerseUnits": 879,
+      "distributorWordTags": 0
+    },
+    "Acts": {
+      "targetVerses": 1007,
+      "distributorVerseUnits": 1007,
+      "distributorWordTags": 0
+    },
+    "Rom": {
+      "targetVerses": 433,
+      "distributorVerseUnits": 433,
+      "distributorWordTags": 0
+    },
+    "1Cor": {
+      "targetVerses": 437,
+      "distributorVerseUnits": 437,
+      "distributorWordTags": 0
+    },
+    "2Cor": {
+      "targetVerses": 257,
+      "distributorVerseUnits": 257,
+      "distributorWordTags": 0
+    },
+    "Gal": {
+      "targetVerses": 149,
+      "distributorVerseUnits": 149,
+      "distributorWordTags": 0
+    },
+    "Eph": {
+      "targetVerses": 155,
+      "distributorVerseUnits": 155,
+      "distributorWordTags": 0
+    },
+    "Phil": {
+      "targetVerses": 104,
+      "distributorVerseUnits": 104,
+      "distributorWordTags": 0
+    },
+    "Col": {
+      "targetVerses": 95,
+      "distributorVerseUnits": 95,
+      "distributorWordTags": 0
+    },
+    "1Thess": {
+      "targetVerses": 89,
+      "distributorVerseUnits": 89,
+      "distributorWordTags": 0
+    },
+    "2Thess": {
+      "targetVerses": 47,
+      "distributorVerseUnits": 47,
+      "distributorWordTags": 0
+    },
+    "1Tim": {
+      "targetVerses": 113,
+      "distributorVerseUnits": 113,
+      "distributorWordTags": 0
+    },
+    "2Tim": {
+      "targetVerses": 83,
+      "distributorVerseUnits": 83,
+      "distributorWordTags": 0
+    },
+    "Titus": {
+      "targetVerses": 46,
+      "distributorVerseUnits": 46,
+      "distributorWordTags": 0
+    },
+    "Phlm": {
+      "targetVerses": 25,
+      "distributorVerseUnits": 25,
+      "distributorWordTags": 0
+    },
+    "Heb": {
+      "targetVerses": 303,
+      "distributorVerseUnits": 303,
+      "distributorWordTags": 0
+    },
+    "Jas": {
+      "targetVerses": 108,
+      "distributorVerseUnits": 108,
+      "distributorWordTags": 0
+    },
+    "1Pet": {
+      "targetVerses": 105,
+      "distributorVerseUnits": 105,
+      "distributorWordTags": 0
+    },
+    "2Pet": {
+      "targetVerses": 61,
+      "distributorVerseUnits": 61,
+      "distributorWordTags": 0
+    },
+    "1John": {
+      "targetVerses": 105,
+      "distributorVerseUnits": 105,
+      "distributorWordTags": 0
+    },
+    "2John": {
+      "targetVerses": 13,
+      "distributorVerseUnits": 13,
+      "distributorWordTags": 0
+    },
+    "3John": {
+      "targetVerses": 14,
+      "distributorVerseUnits": 14,
+      "distributorWordTags": 0
+    },
+    "Jude": {
+      "targetVerses": 25,
+      "distributorVerseUnits": 25,
+      "distributorWordTags": 0
+    },
+    "Rev": {
+      "targetVerses": 403,
+      "distributorVerseUnits": 404,
+      "distributorWordTags": 0
+    }
+  },
+  "migration": "302bb5f92f1e05bf4b96c894f96da77a4cf10845",
+  "method": {
+    "published": "A distributor Strong’s tag on a matching whole English verse is independently supported by a complete BSB publisher rendering of the same single word and a unique same Strong’s occurrence in the selected source verse. These flags are for lexical lookup.",
+    "corroborated": "The WEB and ASV John 11:35 readings are independently reviewed. CrossWire KJV2003 directly identifies individual source word positions. Additions require matching English boundaries and matching Greek form, ID and position. See the build script for abstentions.",
+    "withheld": "The raw provider archive retains every candidate. Book counts record the reason a candidate was withheld. The original translation is preserved; a supported lexical lookup does not enable source-form display.",
+    "publishedText": "The anchored translation and literary layout are preserved from the pinned migration reference. Later distributor text revisions never silently replace a published verse."
+  }
 }

@@ -11,7 +11,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 1071
     },
     "Mark": {
@@ -24,7 +30,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 677
     },
     "Luke": {
@@ -37,7 +49,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 1150
     },
     "John": {
@@ -50,7 +68,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 879
     },
     "Acts": {
@@ -63,7 +87,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 1007
     },
     "Rom": {
@@ -76,7 +106,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 433
     },
     "1Cor": {
@@ -89,7 +125,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 437
     },
     "2Cor": {
@@ -102,7 +144,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 257
     },
     "Gal": {
@@ -115,7 +163,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 149
     },
     "Eph": {
@@ -128,7 +182,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 155
     },
     "Phil": {
@@ -141,7 +201,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 104
     },
     "Col": {
@@ -154,7 +220,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 95
     },
     "1Thess": {
@@ -167,7 +239,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 89
     },
     "2Thess": {
@@ -180,7 +258,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 47
     },
     "1Tim": {
@@ -193,7 +277,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 113
     },
     "2Tim": {
@@ -206,7 +296,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 83
     },
     "Titus": {
@@ -219,7 +315,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 46
     },
     "Phlm": {
@@ -232,7 +334,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 25
     },
     "Heb": {
@@ -245,7 +353,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 303
     },
     "Jas": {
@@ -258,7 +372,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 108
     },
     "1Pet": {
@@ -271,7 +391,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 105
     },
     "2Pet": {
@@ -284,7 +410,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 61
     },
     "1John": {
@@ -297,7 +429,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 105
     },
     "2John": {
@@ -310,7 +448,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 13
     },
     "3John": {
@@ -323,7 +467,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 14
     },
     "Jude": {
@@ -336,7 +486,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 25
     },
     "Rev": {
@@ -349,7 +505,13 @@
       "publishedTags": 0,
       "corroboratedLinks": 0,
       "rejected": 0,
-      "unresolved": 0,
+      "explicitlyUnresolved": 0,
+      "distributorAwaitingReviewTags": 0,
+      "distributorUnmatchedVerseTags": 0,
+      "distributorUnmappedVerseTags": 0,
+      "unresolvedDistributorTags": 0,
+      "unresolvedCrossWireGroups": 0,
+      "filledMissingPublisherTags": 0,
       "versesWithoutRestoration": 403
     }
   },
@@ -363,7 +525,20 @@
     "publishedTags": 0,
     "corroboratedLinks": 0,
     "rejected": 0,
-    "unresolved": 0,
+    "explicitlyUnresolved": 0,
+    "distributorAwaitingReviewTags": 0,
+    "distributorUnmatchedVerseTags": 0,
+    "distributorUnmappedVerseTags": 0,
+    "unresolvedDistributorTags": 0,
+    "unresolvedCrossWireGroups": 0,
+    "filledMissingPublisherTags": 0,
     "versesWithoutRestoration": 7954
+  },
+  "units": {
+    "unresolvedDistributorTags": "Upstream distributor word tags withheld for missing, unmatched or insufficient evidence.",
+    "unresolvedCrossWireGroups": "CrossWire OSIS word groups without a new verified link, including conflicts and overlap with existing migrated links.",
+    "explicitlyUnresolved": "Individually recorded unresolved evidence rows. Do not sum across source inventories.",
+    "alignmentLinks": "Verified English spans. Original form can appear beside a span that cannot stand alone.",
+    "inferredLinks": "Stored inference candidates before per-occurrence publisher evidence takes precedence."
   }
 }
